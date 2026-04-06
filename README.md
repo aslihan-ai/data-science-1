@@ -10,6 +10,7 @@ String slicing ([::-1])
  Example
 Enter a string: hello
 Reversed string: olleh
+
  LEVEL 2: Count Vowels in a String
  Description
 
@@ -22,6 +23,7 @@ String membership (in)
  Example
 Enter a word or sentence: ChatGPT
 Number of vowels: 1
+
  LEVEL 3: Simple CLI Calculator
  Description
 
